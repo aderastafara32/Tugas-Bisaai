@@ -16,4 +16,4 @@ Tahap awal yaitu mengimport library yang dibutuhkan. Selanjutnya membaca dataset
 
 Dengan machine learning naive bayes algoritma dapat bekerja dengan cukup baik untuk komentar negatif, sedangkan deep learning LSTM bekerja dengan buruk karena dataset training tidak seimbang. Ini dapat diatasi dengan menambah dataset, menggunakan premodel, dan weight class untuk prediksi yang akurat.
 
-source code dan dataset : [https://bit.ly/3EEaZID](https://bit.ly/3ugZtyt)
+
